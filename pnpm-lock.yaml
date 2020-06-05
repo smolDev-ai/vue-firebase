@@ -4,6 +4,7 @@ dependencies:
   vue-router: 3.3.2
 devDependencies:
   '@vue/cli-plugin-babel': 4.4.1_@vue+cli-service@4.4.1
+  '@vue/cli-plugin-router': 4.4.1_@vue+cli-service@4.4.1
   '@vue/cli-service': 4.4.1_0273a6dd075160231311b8907bcd3902
   vue-template-compiler: 2.6.11
 lockfileVersion: 5.1
@@ -8143,8 +8144,9 @@ packages:
       integrity: sha512-92O1HWEjw27sBfgmXiixJWT5hRBp2eobqXicLtPBIDBhYB+1HpwZlXmbW2luivBJHBzki+7VyCLRtAkScbTBQA==
 specifiers:
   '@vue/cli-plugin-babel': ~4.4.0
+  '@vue/cli-plugin-router': ~4.4.0
   '@vue/cli-service': ~4.4.0
   core-js: ^3.6.5
   vue: ^2.6.11
-  vue-router: ^3.3.2
+  vue-router: ^3.2.0
   vue-template-compiler: ^2.6.11
